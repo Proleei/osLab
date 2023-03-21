@@ -1,0 +1,2 @@
+this is an update file in main.
+simulate the situation when local changed file wanna merge remote changed file.
